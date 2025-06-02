@@ -1,6 +1,6 @@
-# football_analysis_tests_202500602
+# **Football_analysis_tests_202500602**
 ## About the project
-analyzing goal trends
+*analyzing goal trends*
 #### Credits
 https://www.laliga.com/en-GB
 
